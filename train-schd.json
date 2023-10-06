@@ -1,0 +1,22 @@
+[
+    {
+      "trainNumber": "345267",
+      "departureTime": "6:30 AM",
+      "destination": "New Delhi"
+    },
+    {
+      "trainNumber": "987425",
+      "departureTime": "12:00 AM",
+      "destination": "Chennai"
+    },
+    {
+        "trainNumber": "56895",
+        "departureTime": "15:00 PM",
+        "destination": "Banglore"
+      },
+      {
+        "trainNumber": "236490",
+        "departureTime": "04:00 AM",
+        "destination": "Pune"
+      }
+    ]
