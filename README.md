@@ -70,5 +70,6 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 
 ### CREATE TRAIN-SCHEDULE-APP
-<img width="520" alt=""C:\Users\anany\OneDrive\Pictures\Screenshots\Train Schedule.png"" src="https://user-images.githubusercontent.com/94048506/212454209-193dd2bc-cb14-4e20-a13f-a4a535a734a2.png">
+[![Train Schedule](https://github.com/M-ananya/2001640100042/assets/94048506/6a45c5f8-0a67-4d97-8273-e9a5c0c4fdc9)
+]
 
